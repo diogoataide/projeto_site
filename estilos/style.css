@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(0, 81, 255);
+    background-color: rgba(0, 81, 255, 0.295);
 }
 
 main {
@@ -13,4 +13,4 @@ main {
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.473);
-}
+}   
